@@ -1,0 +1,60 @@
+Qual é a capital da França?
+a) Londres
+b) Paris
+c) Berlim
+d) Roma
+1
+Qual é o maior planeta do sistema solar?
+a) Júpiter
+b) Marte
+c) Vênus
+d) Terra
+0
+Quem pintou a Mona Lisa?
+a) Salvador Dalí
+b) Leonardo da Vinci
+c) Pablo Picasso
+d) Vincent van Gogh
+1
+Qual é o código binário para o número 10?
+a) 0010
+b) 0101
+c) 1010
+d) 1100
+2
+Quem é o autor da trilogia "O Senhor dos Anéis"?
+a) J.R.R. Tolkien
+b) George R.R. Martin
+c) C.S. Lewis
+d) J.K. Rowling
+0
+Qual é a linguagem de programação mais popular atualmente?
+a) Java
+b) Python
+c) C++
+d) JavaScript
+1
+Qual é o símbolo químico do elemento ouro?
+a) Au
+b) Ag
+c) Fe
+d) Pt
+0
+Qual é o nome do robô protagonista da série de filmes "Star Wars"?
+a) R2-D2
+b) C-3PO
+c) BB-8
+d) WALL-E
+0
+Qual é a fórmula química da água?
+a) H2O
+b) CO2
+c) NaCl
+d) CH4
+0
+Quem é considerado o pai da computação?
+a) Alan Turing
+b) Bill Gates
+c) Steve Jobs
+d) Mark Zuckerberg
+0
